@@ -1,0 +1,43 @@
+body{
+    background-color: skyblue;
+    padding: 30px;
+}
+footer{
+    background-color: black;
+    color: yellowgreen;
+}
+header{
+    background-color: black;
+}
+section{
+    background-color: lightblue;
+}
+img{
+    filter: drop-shadow(0 0 20px);
+    fill-opacity: blue;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+h5{
+    color: red;
+}
+h6{
+    color: blue;
+    text-decoration: dotted;
+}
+h1{
+    color: red;
+    text-align:center ;
+    text-decoration: solid;
+}
+button{
+    opacity: 200px;
+    background-color: blue;
+}
+image1{
+    border-radius: 60%;
+}
+#carousel{
+    padding-top: 20px;
+    width: 400px;
+}
